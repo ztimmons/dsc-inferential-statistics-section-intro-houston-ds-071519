@@ -13,22 +13,18 @@ You will be able to:
 
 In this section, we're returning to statistics to broaden and deepen our understanding of distributions and sampling.
 
-### Statistical Distributions
-
-We're going to start by reviewing what we've learned about Uniform, Normal and Binomial distributions and look at real world use cases for problem solving using statistical distributions. We then introduce the Negative Binomial distribution and the kinds of questions it can be used to answer. Next up, we look at the Geometric distribution and how it can be used to calculate the probability distribution of repeated, independent events. 
-
-After some practice working with Negative Binomial and Geometric distributions, we then introduce the Poisson distribution and how it can be used to predict things like the number of times a given event might happen within a time period.
-
-We finish up the distributions section by introducing the Exponential distribution. In some ways it can be thought of as the inverse of a Poisson distribution, allowing us to answer questions about the amount of time it might take before a given event occurs.
-
 ### Sampling
 
-Next, we provide an introduction to the idea of sampling - selecting a subset of a population to survey. Then we introduce the central limit theorem and how it can be used for parameter estimation. We then start to introduce some statistics related to sampling, explaining and showing how to calculuate the standard error.
+We'll start by providing an introduction to the idea of **_Sampling_** - selecting a subset of a population to survey.  We then start to introduce some statistics related to sampling, explaining and showing how to calculuate the standard error.
 
-From there, we then go on to introduce and calculate confidence intervals, and see how we can use T-distributions to calculate confidence intervals when we don't know the standard deviation of the population.
+### The Central Limit Theorem
 
+Once we understand a bit about sampling, we'll explore how we can use it by digging deep into one of the coolest and most important concepts in inferential statistics--the **_Central Limit Theorem_**! We'll start by learning about how the Central Limit Theorem works, and explore how we can use it in a way that allows us to treat non-normal distributions as normal distributions, and provides a way for us to estimate parameters about a population.
+
+### The T-Distribution
+
+Finally, we'll end this section by learning about how we can use the **_T-Distribution_** for dealing samples that are smaller, and that have an unknown standard deviation. We'll explore how the T-Distribution works, learn about _Degrees of Freedom_, and then see how we can calculate confidence intervals using our newfound knowledge of the T-Distribution. 
 
 ## Summary
 
-While some of this material may seem a little dry, a deep understanding of and intuition for distributsions and sampling will be important to avoid making mistakes in your EDA, feature selection and modeling work which could lead to faulty predictions from your models.
-
+While some of this material may seem a little dry, a deep understanding of and intuition for distributions and sampling will be important in your career as a data scientist. This knowledge will help you avoid making mistakes in your EDA, feature selection, and modeling work which could lead to faulty predictions from your models.
