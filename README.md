@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 19 and why they'll be important to you as a data scientist.
+In this section, you'll learn be introduced to inferential statistics. You'll learn about sampling, the central limit theorem, and the T-distribution.
 
 ## Objectives
 You will be able to:
